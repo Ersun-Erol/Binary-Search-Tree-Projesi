@@ -2,8 +2,6 @@
 Patika - Veri Yapıları ve Algoritmalar Derslerinin Alıştırma Projeleri Kapsamında Yapılmıştır. Binary Search Tree  Projesi'dir.
 
 ## [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
- 
----
 
 Root belirlenir. Roottan büyük olanlar sol tarafta büyük olanlar sağ tarafta toplanır.
 1.adım: Root:7 
